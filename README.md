@@ -1,1 +1,1 @@
-# narxozlibrary
+# narxoz-library
